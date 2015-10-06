@@ -1,0 +1,16 @@
+{
+    "name": "ichor/gitdemo-modern-php",
+    "require": {
+        "phpunit/phpunit": "^5.0",
+        "php-di/php-di": "^5.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Napat Parkpien",
+            "email": "ichorate@gmail.com"
+        }
+    ]
+}
