@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vide",
+				"videodisplay"
+			],
+			[
+				"max",
+				"max-height: 〔property〕"
+			],
+			[
+				"login",
+				"login_string"
+			],
+			[
+				"play",
+				"playbackRate"
+			],
+			[
+				"Np",
+				"NpClass"
+			],
+			[
+				"S",
+				"Service"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/php.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/php.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/untitled.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "git che",
+		"selected_items":
+		[
+			[
+				"git che",
+				"Git: Checkout Commit"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"oackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"fix",
+				"PHP Coding Standards Fixer: Fix this file (PHP-CS-Fixer)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prefs",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			]
+		],
+		"width": 768.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ichor/Source/Repos/gitdemo-modern-php"
+	],
+	"file_history":
+	[
+		"/C/Users/ichor/Source/Repos/mind/kuscc/KUSCC/control/playback.php",
+		"/C/Users/ichor/Source/Repos/mind/kuscc/KUSCC/control/process/searchvideo.php",
+		"/C/Users/ichor/Source/Repos/mind/kuscc/KUSCC/control/test-playback.html",
+		"/C/Users/ichor/Source/Repos/mind/kuscc/KUSCC/control/process/verifypassword.php",
+		"/C/Users/ichor/Source/Repos/mind/kuscc/KUSCC/config/function.php",
+		"/C/Users/ichor/Source/Repos/mind/test/playback.html",
+		"/C/Users/ichor/Source/Repos/mind/kuscc/KUSCC/tmp/1437720964.mp4",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/CodeComplice/Default (Windows).sublime-keymap",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ichor/Source/Repos/php/phpunit/Service1.php",
+		"/C/Users/ichor/Source/Repos/php/phpunit/CameraModel.php",
+		"/C/Users/ichor/Source/Repos/php/phpunit/vendor/autoload.php",
+		"/C/Users/ichor/Source/Repos/php/phpunit/phpunit.sublime-project",
+		"/C/Users/ichor/Source/Repos/php/phpunit/composer.json",
+		"/C/Users/ichor/Source/Repos/php/phpunit/test/MyTest.php",
+		"/C/Users/ichor/Source/Repos/php/phpunit/MyTest2.php",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/ichor/Source/Repos/mind/test/NpClass.php",
+		"/C/Users/ichor/Source/Repos/mind/test/test.php",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/php.sublime-build",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/ichor/Source/Repos/mind/mind.sublime-project",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/Users/ichor/Source/Repos/mind/test/Service.php",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/ichor/Source/Repos/mind/test/service.php",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/ichor/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/php/composer.ps",
+		"/C/PHP56/php.ini-development",
+		"/C/Users/ichor/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/php/Composer/composer.bat",
+		"//MIND-HDD2/Volume_1/company/develop/software/buang/Hurricane/2015/Devleopment/server/Could/server/var/www/client/config/error_code.php",
+		"/C/Users/ichor/Desktop/7RewardNotif.p12",
+		"/C/Users/ichor/Source/workspace-new711/WebRole_WebAPI/WebRole_WebAPI.csproj",
+		"/C/Users/ichor/Source/workspace-new711/.vs/config/applicationhost.config",
+		"/C/Users/ichor/Source/workspace-new711/.vs/Dev_WebAPI [production]/v14/.suo",
+		"/C/Users/ichor/Documents/IISExpress/config/aspnet.config",
+		"/C/Users/ichor/Documents/IISExpress/config/applicationhost.config",
+		"/C/Users/ichor/Desktop/mongo command",
+		"/C/Users/ichor/AppData/Local/dftmp/IISConfigurator2.7.0.0/IISConfigurator.exe.config",
+		"/C/Users/ichor/AppData/Local/dftmp/IISConfigurator2.7.0.0/IISConfigurator.exe.express.config",
+		"/C/Users/ichor/source/Repos/lab/appcomp/bower_components/angular/README.md",
+		"/C/Users/ichor/Source/Repos/lab/sql/noname.sql",
+		"/C/Users/ichor/hist.log",
+		"/C/Users/ichor/hist.lo",
+		"/C/Users/ichor/Downloads/test.csv",
+		"/C/Users/ichor/Downloads/barcode.fmt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"updateControl",
+			"videocontent",
+			"video",
+			"/",
+			"video",
+			"get_param",
+			"	",
+			"4430",
+			"44301",
+			"binding",
+			"}",
+			"PROJ",
+			"\"",
+			"	",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\\",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 130.0
+	},
+	"output.git-commit":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "demo-md.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 405.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
