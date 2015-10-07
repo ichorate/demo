@@ -12,5 +12,8 @@
             "name": "Napat Parkpien",
             "email": "ichorate@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"demoMd\\": "."}
+    }
 }

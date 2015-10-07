@@ -1,12 +1,15 @@
 <?php
 
-namespace demoMd\test;
+namespace demoMd;
 
 class DemoTest extends \PHPUnit_Framework_TestCase
 {
     public function testMain()
     {
-        $c = new Main();
+        $c = new MainClass('xxx');
+        $c->say();
+
+
     }
 }
 
