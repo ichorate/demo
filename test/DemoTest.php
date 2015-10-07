@@ -1,4 +1,5 @@
 <?php
+
 namespace demoMd;
 
 class DemoTest extends \PHPUnit_Framework_TestCase
@@ -10,4 +11,11 @@ class DemoTest extends \PHPUnit_Framework_TestCase
 
 
     }
+
+    public function testDb()
+    {
+        $db = new Db();
+        $db->connect();
+    }
 }
+
