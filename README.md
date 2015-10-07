@@ -22,3 +22,6 @@ git rm --cached mylogfile.log
 ```
 git rm --cached -r mydirectory
 ```
+
+
+- what the fuck
