@@ -17,5 +17,11 @@ class DemoTest extends \PHPUnit_Framework_TestCase
         $db = new Db();
         $db->connect();
     }
-}
 
+    public function testDi()
+    {
+        $container = \DI\ContainerBuilder::buildDevContainer();
+        $s = $container->get('Service');
+        $this->assertEquals($s->get('x'), 'x');
+    }
+}
