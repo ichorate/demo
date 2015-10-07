@@ -1,4 +1,8 @@
+#package from composer
 /vendor/
+#lock package version 
+composer.lock
+
 # cache files for sublime text
 *.tmlanguage.cache
 *.tmPreferences.cache
@@ -13,3 +17,4 @@
 
 # sftp configuration file
 sftp-config.json
+
