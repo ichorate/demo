@@ -14,3 +14,11 @@ git config <varname ex=user.name>
 ```
 git config --global credential.helper wincred
 ```
+
+- remove track file from repos (eg. commit ignore file )
+```
+git rm --cached mylogfile.log
+```
+```
+git rm --cached -r mydirectory
+```
