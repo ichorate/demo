@@ -12,3 +12,21 @@ function testDi()
 }
 
 testDi();
+
+
+
+function testDiConfig($environment)
+{
+    $builder = new \DI\ContainerBuilder();
+    $builder->addDefinitions("diconfig.php");
+    $builder->addDefinitions("diconfig.$environment.php");
+    $container = $builder->build();
+
+
+    $container->call(function ($dbHost) {
+        echo $dbHost;
+    }, ['dbHost' => \DI\get('db.host')]);
+}
+
+testDiConfig('dev');
+testDiConfig('prod');

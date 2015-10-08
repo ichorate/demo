@@ -21,7 +21,7 @@ class DemoTest extends \PHPUnit_Framework_TestCase
     public function testDi()
     {
         $container = \DI\ContainerBuilder::buildDevContainer();
-        $s = $container->get('Service');
+        $s = $container->get('demoMd\Service');
         $this->assertEquals($s->get('x'), 'x');
     }
 }
